@@ -14,7 +14,7 @@ BookmarkCollection is an iOS application designed to help users organize and man
 
 ## About the App
 
-![](https://github.com/akhmetpekov/BookmarkCollection/blob/main/images/logo.png)
+<img src="https://github.com/akhmetpekov/BookmarkCollection/blob/main/images/logo.png" width="150" height="150">
 
 BookmarkCollection is a simple yet effective solution for managing your bookmarks on iOS devices. Whether you want to save important websites, articles, or references, this app has you covered with the following features:
 
