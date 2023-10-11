@@ -1,6 +1,6 @@
-# bookmarkCollection App
+# BookmarkCollection App
 
-bookmarkCollection is an iOS application designed to help users organize and manage their favorite links efficiently. With a user-friendly interface, this app allows you to save and categorize your bookmarks for quick and easy access.
+BookmarkCollection is an iOS application designed to help users organize and manage their favorite links efficiently. With a user-friendly interface, this app allows you to save and categorize your bookmarks for quick and easy access.
 
 ## Table of Contents
 
@@ -14,7 +14,9 @@ bookmarkCollection is an iOS application designed to help users organize and man
 
 ## About the App
 
-bookmarkCollection is a simple yet effective solution for managing your bookmarks on iOS devices. Whether you want to save important websites, articles, or references, this app has you covered with the following features:
+![](https://github.com/akhmetpekov/BookmarkCollection/blob/main/images/logo.png)
+
+BookmarkCollection is a simple yet effective solution for managing your bookmarks on iOS devices. Whether you want to save important websites, articles, or references, this app has you covered with the following features:
 
 - **Add Bookmarks**: Save links along with their titles, ensuring that you can easily identify and manage your bookmarks.
 
@@ -58,7 +60,7 @@ To run the bookmarkCollection app on your iOS device or simulator, follow these 
 3. Build and run the project on your device or simulator.
 
 ```bash
-git clone 
+git clone git@github.com:akhmetpekov/BookmarkCollection.git
 ```
 
 ## Core Data Model
@@ -79,6 +81,6 @@ bookmarkCollection uses Core Data for data storage. The Core Data model, named `
 
 ## Demo
 
-![]()
+![](https://github.com/akhmetpekov/BookmarkCollection/blob/main/images/Demo.gif)
 
 
